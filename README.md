@@ -1,25 +1,25 @@
-# Movies website
+# Videos website
 
-Movies website is a website that displays box art, title and youtube link of a list of movies using python as language on the server side, and html, css and javascript for the front end.
+The videos website is a website that displays box art, title, youtube link and other data of a list of movies and tv shows, using python as language on the server side and html, css and javascript for the front end.
 
 # Usage
 
-To see it in action you just have to open the file named "movies_website.html" with your favourite web explorer. There is no need to install anything unless you want to edit some of the code. In that case you would need to open the .py extension files with Python (preferable with version **2.7.14**, as it was the version used to create them). 
+To see it in action you just have to open the file named "movies_website.html" with your favorite web explorer. There is no need to install anything unless you want to edit some of the code. In that case you would need to open the .py extension files with Python (preferable with version **2.7.14**, as it was the version used to create them). 
 
 ### Dependencies
 
-The _Movies website_ needs import from the Python Standard Library **webbrowser**, **os**, and **re**. The html file makes use of Bootstrap for styling and jQuery for handling user events.
+The _Videos website_ needs to import from the Python Standard Library **webbrowser**, **os**, and **re** modules. The html file makes use of Bootstrap for styling and jQuery for handling user events.
 
 ### Development
 
-If you want to contribute to this project go to this repository in Github:
+If you want to contribute to this project go to this repository in Github: [a link](https://github.com/Salsatore89/python-movies-website)
 
 ### Todos
 
  There are plenty of things to do:
- - Add more movies
- - Make a detail view for every movie to see the storyline and other data
- - Give user the ability to rate each movie
+ - Add more movies and Tv shows
+ - Make a detail view for every movie and Tv show to display more data
+ - Give user the ability to rate each movie/tv show
  - In the backend it would be great to move all the data to a database, instead of having it hardcoded in the "entertainment_center" file
 
 License
